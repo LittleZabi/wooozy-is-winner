@@ -1,0 +1,4 @@
+printy
+selenium
+requests
+openpyxl
